@@ -15,11 +15,11 @@ $ meteor add aldeed:autoform
 
 ### A jstree package
 
-There are several jstree packages available.  I used the jss:jstree and the meteor-jstree-proton-theme.
+There are several jstree packages available.  I used the jss:jstree and the "proton" theme:
 
 ```
 meteor add jss:jstree
-meteor add meteor-jstree-proton-theme
+meteor add jss:jstree-proton-theme
 
 ## Installation
 
