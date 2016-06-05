@@ -16,7 +16,7 @@ Package.onUse(function(api) {
   api.use('aldeed:template-extension@3.4.3');
   api.use('aldeed:autoform@4.0.0 || 5.0.0');
   api.addFiles([
-    'autoform-switchery.html',
-    'autoform-switchery.js'
+    'jstree.html',
+    'jstree.js'
   ], 'client');
 });
