@@ -1,7 +1,7 @@
 dguedry:autoform-jstree
 =========================
 
-An add-on Meteor package for [aldeed:autoform](https://github.com/aldeed/meteor-autoform). Provides a single custom input type for Boolean values, "switchery", which renders using the [switchery](https://abpetkov.github.io/switchery/) plugin.
+An add-on Meteor package for [aldeed:autoform](https://github.com/aldeed/meteor-autoform). Provides a custom input type for jsTree (https://www.jstree.com).
 
 ## Prerequisites
 
