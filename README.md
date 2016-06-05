@@ -20,6 +20,7 @@ There are several jstree packages available.  I used the jss:jstree and the "pro
 ```
 meteor add jss:jstree
 meteor add jss:jstree-proton-theme
+```
 
 ## Installation
 
