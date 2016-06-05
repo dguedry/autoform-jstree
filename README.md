@@ -27,7 +27,7 @@ meteor add jss:jstree-proton-theme
 In a Meteor app directory, enter:
 
 ```bash
-$ meteor add dguedry:jstree
+$ meteor add dguedry:autoform-jstree
 ```
 
 ## Usage
