@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'artjomg:autoform-jstree',
-  version: '0.0.1',
+  name: 'dguedry:autoform-jstree',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'jsTree input for Autoform',
   // URL to the Git repository containing the source code for this package.
