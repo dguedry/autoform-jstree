@@ -21,7 +21,7 @@ Template.afJsTree.rendered = function () {
     var $tree = $(this.firstNode);
     var data = self.data;
     var nodes = data.atts.nodes;
-    
+
     selectnodes = function (node) {
         node.forEach(function(d) {
             if (_.contains(self.value.get(), d.id)) {
@@ -34,10 +34,11 @@ Template.afJsTree.rendered = function () {
         return node
     }
     nodes = selectnodes(nodes);
-    
+
     this.autorun(function () {
         $tree.jstree({
             plugins: options.plugins || [],
+            search: options.search || [],
             core: {
                 themes: options.themes || {},
                 data: function (node, cb) {
